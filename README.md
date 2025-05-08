@@ -2,7 +2,7 @@
 
 ## Repository Outline
 1. README.md - Penjelasan gambaran umum project
-2. notebook.ipynb.ipynb - Notebook yang berisi pengolahan data dan analisis data dengan python
+2. notebook.ipynb - Notebook yang berisi pengolahan data dan analisis data dengan python
 3. spending_patterns_detailed.csv - Dataset yang digunakan
 
 
